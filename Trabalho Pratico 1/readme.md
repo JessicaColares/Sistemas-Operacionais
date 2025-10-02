@@ -12,6 +12,11 @@ Maiores detalhes do trabalho no pdf.
 * Jessica de Figueredo Colares
 * Roberta Brasil
 
+### Temática:
+
+1. Leitores e Escritores -> Movimentação bancária.
+2. Produtores e Consumidores -> Etapas de um e-comerce.
+
 ## Leitores e Escritores
 
 Para compilar o programa:
@@ -51,4 +56,3 @@ Execute de 3 maneiras diferentes:
 1 separador, 3 entregadores
 
 `./programa 1 3`
-

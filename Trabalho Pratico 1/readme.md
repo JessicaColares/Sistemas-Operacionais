@@ -2,7 +2,7 @@
 
 ### Trabalho Prático 1
 
-Se estiver no windows, recomendo executrar o programa através do WSL.
+Se estiver no windows, recomendo executar o programa através do WSL.
 
 Maiores detalhes do trabalho no pdf.
 
@@ -51,3 +51,4 @@ Execute de 3 maneiras diferentes:
 1 separador, 3 entregadores
 
 `./programa 1 3`
+
